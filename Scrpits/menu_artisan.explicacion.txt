@@ -16,3 +16,19 @@ Asegúrate de que el script tiene permisos de ejecución.
 
 --- --- ---
 
+Mejoras:
+
+Se han añadido más comandos a las secciones existentes.
+Se han añadido nuevas secciones como "Cache y cola", "Vistas", "Rutas" y "Tests".
+Se ha añadido una sección "Miscelánea" para comandos generales.
+Para usar el script:
+
+Guarda el código en un archivo PHP (por ejemplo, menu_artisan.php).
+Ejecuta el script desde la línea de comandos: php menu_artisan.php
+Sigue las instrucciones en pantalla para navegar por el menú y ejecutar los comandos.
+Recuerda:
+
+Puedes añadir más secciones y comandos al array $secciones.
+Puedes usar la función system() para ejecutar cualquier comando de la línea de comandos, no solo comandos de Artisan.
+Asegúrate de que el script tiene permisos de ejecución.
+Este script te proporciona una base sólida. Puedes personalizarlo aún más, por ejemplo, añadiendo la posibilidad de pasar argumentos a los comandos, o incluso crear submenús para organizar mejor los comandos.
