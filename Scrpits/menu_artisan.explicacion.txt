@@ -1,0 +1,18 @@
+Explicación del código:
+
+Se define un array $secciones que contiene las secciones del menú y los comandos de Artisan asociados a cada opción.
+La función mostrarMenu() imprime el menú en la consola.
+El bucle principal muestra el menú, lee la opción del usuario y ejecuta el comando correspondiente.
+Para usar el script:
+
+Guarda el código en un archivo PHP (por ejemplo, menu_artisan.php).
+Ejecuta el script desde la línea de comandos: php menu_artisan.php
+Sigue las instrucciones en pantalla para navegar por el menú y ejecutar los comandos.
+Recuerda:
+
+Este script es un ejemplo básico. Puedes modificarlo para añadir más secciones, comandos y opciones.
+Puedes usar la función system() para ejecutar cualquier comando de la línea de comandos, no solo comandos de Artisan.
+Asegúrate de que el script tiene permisos de ejecución.
+
+--- --- ---
+
