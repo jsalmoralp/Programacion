@@ -1,0 +1,6 @@
+# Ignorar archivos temporales
+*.pyc
+pycache/
+
+# Ignorar archivos de datos
+data/*
